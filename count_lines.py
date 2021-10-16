@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 marker = 0
 f=open ('./text1.txt')
 for line in f:
